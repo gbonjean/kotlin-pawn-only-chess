@@ -1,2 +1,2 @@
-# kotlin-pawn-only-chess
-[Pawn-only Chess](https://www.chessvariants.com/diffsetup.dir/pawnsonly.html) variant implementation, as an exercise in Kotlin...
+# Pawn Only Chess
+[Pawn-only Chess](https://www.chessvariants.com/diffsetup.dir/pawnsonly.html) implementation, as an exercise in Kotlin.
